@@ -1,0 +1,28 @@
+.header{
+  background-color: #fff;
+  padding: 20rpx;
+  margin-top: 10px;
+}
+.content-wrap{
+  display: flex;
+  height: 64px;
+  color: #666;
+}
+.avatar{
+  height: 64px;
+  width: 64px;
+  margin-right: 10rpx;
+}
+.header .title{
+  height: 21px;
+}
+.d_icon{
+  vertical-align: top;
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  margin-right: 5px;
+}
+.content text{
+  line-height: 21px;
+}

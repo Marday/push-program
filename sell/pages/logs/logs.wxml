@@ -1,0 +1,24 @@
+<view class="header">
+  <view class="content-wrap">
+    <view class="avatar">
+      <image src="{{selectFood.image}}"></image>
+    </view>
+    <view class="content">
+      <view class="title">
+      <image src="../../images/guarantee_3@2x.png" class="d_icon"></image>
+        <text>{{selectFood.name}}</text>
+      </view>
+      <view class="description">
+        <image class="d_icon" src="../../images/star24_on@2x.png"></image>
+        <image class="d_icon" src="../../images/star24_on@2x.png"></image>
+        <image class="d_icon" src="../../images/star24_on@2x.png"></image>
+        <image class="d_icon" src="../../images/star24_on@2x.png"></image>
+        <image class="d_icon" src="../../images/star24_on@2x.png"></image>
+        <text>{{selectFood.name}}</text>
+      </view>
+      <view class="tips">
+        <text>{{selectFood.tips}}</text>
+      </view>
+    </view>
+  </view>
+</view>
